@@ -1,5 +1,4 @@
 package ru.job4j.calculate;
-
 public class Сalculator {
     public static void plus(int first, int second){
         int result=first+second;
