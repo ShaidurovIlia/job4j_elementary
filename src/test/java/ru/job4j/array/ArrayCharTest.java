@@ -4,7 +4,6 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class ArrayCharTest {
-
     @Test
     public void whenStarWithPrefixThenTrue() {
         char[] word = {'H', 'e', 'l', 'l', 'o'};
